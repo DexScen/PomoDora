@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomoDora", "PomoDora\PomoDora.csproj", "{B9789D27-FF19-442C-A4F5-F380BFD8EE88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05C2C5C8-A5FF-47B8-838C-207F88AA1678}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\icons8-setting-100.png = ..\..\..\Downloads\icons8-setting-100.png
+		..\..\..\Downloads\icons8-settings-100.png = ..\..\..\Downloads\icons8-settings-100.png
+		..\..\..\Downloads\pomodora.ico = ..\..\..\Downloads\pomodora.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9789D27-FF19-442C-A4F5-F380BFD8EE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9789D27-FF19-442C-A4F5-F380BFD8EE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9789D27-FF19-442C-A4F5-F380BFD8EE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9789D27-FF19-442C-A4F5-F380BFD8EE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AAF8EB3-D83D-4AE6-856E-9C287D59A70E}
+	EndGlobalSection
+EndGlobal
